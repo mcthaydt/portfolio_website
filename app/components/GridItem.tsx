@@ -87,7 +87,7 @@ const GridItem: React.FC<GridItemProps> = ({
                     href={githubLink}
                     className={`text-sm sm:text-base ${styles.portfolioLinkClass}`}
                   >
-                    GitHub
+                    Source Code
                   </Link>
                 )}
                 {liveProjectLink && (
