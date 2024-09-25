@@ -9,24 +9,24 @@ import { BusinessCardInfo, FooterInfo, TaglineInfo } from "./lib/types";
 const businessCardInfo: BusinessCardInfo = {
   firstName: "Dawson",
   lastName: "McThay",
-  title: "Full-Stack Developer",
+  title: "IT Analyst",
   role1: "Game Developer",
   role2: "Gen-Z Indie Hacker",
   socialHandle: "@mcthaydt",
   workInquiries: "Work with me?",
   projectName: "OSAS",
   projectLink: "https://testing-osas.netlify.app/",
-  startDate: new Date(2021, 4, 1),
+  startDate: new Date(2023, 8, 1),
 };
 
 const taglineInfo: TaglineInfo = {
-  text: "Building digital solutions that drive results: mobile apps, games, and websites with a sales-focused edge.",
+  text: "Optimizing IT support through automation: enhancing efficiency, resolving issues, and elevating user experiences across platforms.",
   className: "text-white text-left text-3xl font-light leading-relaxed",
 };
 
 const footerInfo: FooterInfo = {
   mainText:
-    "Dawson is an account executive and full-stack developer selling AI-driven communication solutions and creating custom web and mobile applications for clients across industries. He works with marketing teams, security professionals, and entrepreneurs to automate business interactions and elevate digital experiences.",
+    "Dawson is an experienced Service Desk Analyst specializing in automation and delivering exceptional customer support. He excels in troubleshooting diverse IT systems, managing high-volume support requests, and maintaining critical technical infrastructure. With a strong background in communication and problem-solving, Dawson works effectively with cross-functional teams to streamline IT operations and enhance user experiences across multiple platforms and technologies.",
   links: [
     { label: "LinkedIn", href: "https://www.linkedin.com/in/dawsonmcthay/" },
     { label: "GitHub", href: "https://github.com/mcthaydt" },
